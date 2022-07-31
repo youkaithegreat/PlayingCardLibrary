@@ -11,7 +11,8 @@ To pull the images from the deck array of objects, you can simply refer to the .
 The images are linked to the CDN they are hosted on and can be delivered on-demand. 
 
 
-#Hosting/CDN
+# Hosting/CDN
 The library is hosted in an S3 Bucket with Amazon Web Services and is delivered by Cloudfront to a static IP address. 
+
 Regular Version: https://d2otgtimwt9f4y.cloudfront.net/deck.js
 Minified Version: https://d2otgtimwt9f4y.cloudfront.net/deck.min.js
