@@ -11,6 +11,9 @@ To pull the images from the deck array of objects, you can simply refer to the .
 The images are linked to the CDN they are hosted on and can be delivered on-demand. 
 
 
+### Sources 
+Playing Cards found on https://www.me.uk/cards/
+
 # Hosting/CDN
 The library is hosted in an S3 Bucket with Amazon Web Services and is delivered by Cloudfront to a static IP address. 
 
